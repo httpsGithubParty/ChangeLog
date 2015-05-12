@@ -25,7 +25,7 @@ All notable changes to this project will be documented in this file. This projec
 ## 0.20 2015-05-03
 ### Added
 
-- Add blue-greemn-dark themes
+- Add blue-green-dark themes
 - Add bookmarklet
 - Add FAQ 
 (Thanks SJ ( with a littel help of my friends :))
